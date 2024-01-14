@@ -1,0 +1,9 @@
+:root {
+  --white: rgb(239, 243, 244);
+  --black: rgb(0, 0, 0);
+  --gray: rgb(121, 120, 120);
+  --bluegray: rgb(44, 50, 56);
+  --blue: rgb(25, 163, 255);
+  --hoverWhite: rgb(222, 221, 221);
+  /* font-family: system-ui, "Segoe UI", "Open Sans", "Helvetica Neue", sans-serif; */
+}

@@ -1,0 +1,80 @@
+/* .main {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--bluegray);
+  align-items: center;
+  padding: 16.9rem;
+  min-height: 20vh;
+  gap: 1rem;
+  font-family: system-ui, "Segoe UI", "Open Sans", "Helvetica Neue", sans-serif;
+  margin: 0%;
+  box-sizing: border-box;
+}
+.container {
+  display: flex;
+  background-color: var(--black);
+  width: 400px;
+  height: 450px;
+  margin: auto;
+  border: 5px solid var(--black);
+  border-radius: 20px;
+
+}
+
+.image {
+  display: flex;
+  justify-content: center;
+}
+
+.h1 {
+  display: flex;
+  justify-content: space-evenly;
+  flex-direction: column;
+  font-family: system-ui, "Segoe UI", "Open Sans", "Helvetica Neue", sans-serif;
+  color: var(--white);
+  font-size: x-large;
+}
+
+.textfield {
+  justify-content: space-evenly;
+  background-color: var(--black);
+  color: var(--white);
+  border-color: var(--black);
+  padding: 10px 15px 10px 15px;
+}
+
+.button {
+  display: flex;
+  justify-content: space-evenly;
+  justify-content: center;
+  background-color: var(--white);
+  border-color: var(--white);
+
+  font-weight: 550;
+  font-family: system-ui, "Segoe UI", "Open Sans", "Helvetica Neue", sans-serif;
+  border-radius: 2.5em;
+  padding: 4px 62px 4px 62px;
+}
+
+.button1 {
+  display: flex;
+  justify-content: space-evenly;
+  color: var(--white);
+  justify-content: center;
+  background-color: var(--black);
+  border-color: var(--white);
+  font-weight: 550;
+  font-family: system-ui, "Segoe UI", "Open Sans", "Helvetica Neue", sans-serif;
+  border-radius: 2.5em;
+  padding: 4px 20px 4px 20px;
+  text-wrap: wrap;
+}
+
+.footer {
+  display: flex;
+  background-color: var(--bluegray);
+  color: var(--white);
+  justify-content: center;
+  bottom: 2rem;
+  font-family: system-ui, "Segoe UI", "Open Sans", "Helvetica Neue", sans-serif;
+} */
